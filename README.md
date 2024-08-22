@@ -1,4 +1,4 @@
-1. **Task Storage
+1. Task Storage
 
 Explanation: 
   - The `tasks` list is initialized as an empty list to store the tasks. Each task is represented as a sublist with two elements: the task description (a string) and its completion status (a boolean). This structure allows the program to track both the content of the task and whether it has been completed.
